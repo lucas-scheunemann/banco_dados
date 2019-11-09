@@ -1,0 +1,9 @@
+C:\Users\lucas\Documents\PC\FACULDADE\CURSOS ONLINE\C#_avancado\Banco_Dados\Banco_Dados\bin\Debug\Banco_Dados.exe.config
+C:\Users\lucas\Documents\PC\FACULDADE\CURSOS ONLINE\C#_avancado\Banco_Dados\Banco_Dados\bin\Debug\Banco_Dados.exe
+C:\Users\lucas\Documents\PC\FACULDADE\CURSOS ONLINE\C#_avancado\Banco_Dados\Banco_Dados\bin\Debug\Banco_Dados.pdb
+C:\Users\lucas\Documents\PC\FACULDADE\CURSOS ONLINE\C#_avancado\Banco_Dados\Banco_Dados\obj\Debug\Banco_Dados.csprojAssemblyReference.cache
+C:\Users\lucas\Documents\PC\FACULDADE\CURSOS ONLINE\C#_avancado\Banco_Dados\Banco_Dados\obj\Debug\Banco_Dados.Form1.resources
+C:\Users\lucas\Documents\PC\FACULDADE\CURSOS ONLINE\C#_avancado\Banco_Dados\Banco_Dados\obj\Debug\Banco_Dados.Properties.Resources.resources
+C:\Users\lucas\Documents\PC\FACULDADE\CURSOS ONLINE\C#_avancado\Banco_Dados\Banco_Dados\obj\Debug\Banco_Dados.csproj.GenerateResource.cache
+C:\Users\lucas\Documents\PC\FACULDADE\CURSOS ONLINE\C#_avancado\Banco_Dados\Banco_Dados\obj\Debug\Banco_Dados.exe
+C:\Users\lucas\Documents\PC\FACULDADE\CURSOS ONLINE\C#_avancado\Banco_Dados\Banco_Dados\obj\Debug\Banco_Dados.pdb
