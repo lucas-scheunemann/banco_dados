@@ -30,6 +30,21 @@ namespace Banco_Dados
 			try
 			{
 				con.Open();
+
+				//Criando SQL Command , selecionando todos os dados da tabela Cliente tb_clientes
+				SqlCommand comm = new SqlCommand();
+				comm.CommandText = "SELECT * FROM tb_clientes";
+				comm.CommandType = CommandType.Text;
+				comm.Connection = con;
+				SqlDataReader DR;
+				DR = comm.ExecuteReader();
+
+				//Carregar dados do data grid
+				DataTable dt = new DataTable();
+				dt.Load(DR);
+				dataGridView1.DataSource = dt;
+				dataGridView1.Refresh();
+
 				con.Close();
 
 				MessageBox.Show("A conexao foi realizada com sucesso");
